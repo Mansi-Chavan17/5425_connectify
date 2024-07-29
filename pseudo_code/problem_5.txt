@@ -1,0 +1,16 @@
+Begin 
+variables fuel and distance holds number values
+
+Constraints
+fuel < 1000
+distance < 1000
+
+operations performed
+required = fuel * distance
+
+If required > 50
+    print "Enough"
+otherwise 
+    print "Go On"
+
+End
