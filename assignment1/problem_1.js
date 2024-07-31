@@ -5,15 +5,7 @@
 // Hello World!
 // Hello World! How are you doing!!
 // */
-// console.log(23%3)
 
-let x = 60;
-let y = 36;
-
-if(y==0){
-    console.log(x)
-}else{
-    x=y;
-    y = x%y;
-}
-console.log(x,y)
+// let a = "A"
+console.log(10000000100110 === 100000000100110)
+// console.log(String.fromCharCode(a.charCodeAt()))
