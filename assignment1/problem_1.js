@@ -7,5 +7,5 @@
 // */
 
 // let a = "A"
-console.log(10000000100110 === 100000000100110)
+// console.log(10000000100110 === 100000000100110)
 // console.log(String.fromCharCode(a.charCodeAt()))
