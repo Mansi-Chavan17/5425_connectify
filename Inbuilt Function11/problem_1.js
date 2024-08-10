@@ -12,3 +12,12 @@ let hollowSquarePattern = function(N){
 }
 
 hollowSquarePattern(5)
+
+let sumByASCII = function(S,n){
+    let ans = 0;
+    for(let i=0;i<S.length;i++){
+        ans += S.charCodeAt(i)-96
+    }
+    console.log(ans)
+
+}
