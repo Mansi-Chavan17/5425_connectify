@@ -27,6 +27,5 @@ const alterFromMid = function(str){
         }
         let b = arr1.join('') + arr2.join('')
         console.log(b)
-    }
-    
+    } 
 }
